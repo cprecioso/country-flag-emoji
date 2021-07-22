@@ -1,6 +1,6 @@
 {
   "name": "@cprecioso/country-flag-emoji",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Lightweight emoji flag to and from country code",
   "keywords": [
     "emoji",
